@@ -1,6 +1,6 @@
 # Ardo Robi Liga — Portfolio
 
-Hi, I'm **Ardo Robi Liga**, a Motion & Graphic Designer focused on visual storytelling, brand campaigns, motion systems, 3D / CGI, and AI-assisted creative production.
+Hi, I'm **Ardo Robi Liga**, a Motion & Graphic Designer focused on visual storytelling, brand campaigns, motion systems, 3D and AI-assisted creative production.
 
 This repository contains the source code for my personal portfolio website.
 
