@@ -6,7 +6,7 @@ This repository contains the source code for my personal portfolio website.
 
 ## About Me
 
-I work across motion design, graphic design, visual campaigns, 3D / CGI, and AI-assisted creative production.
+I work across motion design, graphic design, visual campaigns, 3D and AI-assisted creative production.
 
 My approach combines strong art direction with practical production thinking — creating visual work that is clear, adaptable, and ready for real commercial use.
 
@@ -21,7 +21,7 @@ The website serves as the main entry point to explore:
 - Selected Works
 - Motion Design
 - Graphic Design
-- 3D / CGI
+- 3D 
 - AI-Assisted Creative
 - Other Creative Projects
 
@@ -34,7 +34,7 @@ Some projects may link to external platforms such as Behance or Google Drive for
 - Art Direction
 - Brand Campaign
 - Visual Storytelling
-- 3D / CGI
+- 3D 
 - AI-Assisted Creative
 - Adobe After Effects
 - Adobe Photoshop
