@@ -284,3 +284,21 @@ footer{
   .category-row{grid-template-columns:42px 1fr auto}
   footer{flex-direction:column}
 }
+
+.project-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.project-visual {
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+}
+
+.project-visual img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
