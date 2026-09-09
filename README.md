@@ -1,64 +1,63 @@
-# Ardo Portfolio — GitHub Pages
+# Ardo Robi Liga — Portfolio
 
-Template portfolio statis untuk GitHub Pages.
+Hi, I'm **Ardo Robi Liga**, a Motion & Graphic Designer focused on visual storytelling, brand campaigns, motion systems, 3D / CGI, and AI-assisted creative production.
 
-## Cara upload paling gampang
-1. Extract ZIP ini.
-2. Di repository GitHub kamu, klik **uploading an existing file**.
-3. Upload:
-   - index.html
-   - style.css
-   - script.js
-4. Klik **Commit changes**.
-5. Masuk ke **Settings → Pages**.
-6. Source: **Deploy from a branch**
-7. Branch: **main**
-8. Folder: **/(root)**
-9. Save.
+This repository contains the source code for my personal portfolio website.
 
-## Yang perlu kamu ganti sebelum publish
-Di `index.html`:
-- `your@email.com`
-- link LinkedIn
-- link Behance
-- judul / deskripsi project
-- placeholder project card dengan thumbnail asli
+## About Me
 
-## Cara menambahkan thumbnail
-Taruh file gambar di folder `assets`, contoh:
-`assets/project-01.jpg`
+I work across motion design, graphic design, visual campaigns, 3D / CGI, and AI-assisted creative production.
 
-Lalu ganti:
+My approach combines strong art direction with practical production thinking — creating visual work that is clear, adaptable, and ready for real commercial use.
 
-```html
-<div class="project-visual placeholder"> ... </div>
-```
+I enjoy building visual systems that not only look good, but also communicate clearly, support brand identity, and work across different formats and platforms.
 
-menjadi:
+## Portfolio Purpose
 
-```html
-<div class="project-visual">
-  <img src="assets/project-01.jpg" alt="Project title">
-</div>
-```
+This website was created as a curated portfolio to present selected commercial and creative work in a simple, accessible, and recruiter-friendly format.
 
-Lalu tambahkan ke `style.css`:
+The website serves as the main entry point to explore:
 
-```css
-.project-visual img{
-  width:100%;
-  height:100%;
-  object-fit:cover;
-  display:block;
-}
-```
-
-## Folder Drive yang sudah terhubung
-- Start Here
 - Selected Works
-- Motion
-- Graphic
-- 3D & AI
-- Other Creative Work
+- Motion Design
+- Graphic Design
+- 3D / CGI
+- AI-Assisted Creative
+- Other Creative Projects
 
-Jadi website sudah bisa dipakai sebagai landing page portfolio, sementara detail project tetap dibuka dari Google Drive.
+Some projects may link to external platforms such as Behance or Google Drive for full case studies, motion previews, and additional project materials.
+
+## Selected Skills
+
+- Motion Design
+- Graphic Design
+- Art Direction
+- Brand Campaign
+- Visual Storytelling
+- 3D / CGI
+- AI-Assisted Creative
+- Adobe After Effects
+- Adobe Photoshop
+- Adobe Premiere Pro
+
+## Portfolio
+
+Website  
+https://ardorobi.github.io/Portofolio/
+
+Behance  
+https://www.behance.net/ardorobi
+
+LinkedIn  
+https://id.linkedin.com/in/ardorobi
+
+## Contact
+
+For collaborations, opportunities, or project inquiries:
+
+**contactmasardo@email.com**
+
+---
+
+© 2026 Ardo Robi Liga  
+Motion & Graphic Designer
