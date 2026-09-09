@@ -103,11 +103,10 @@ a{
 .hero h1{
   max-width:1150px;
   margin:0;
-
   font-family:"Manrope",sans-serif;
   font-size:clamp(54px,8vw,124px);
-  line-height:.92;
-  letter-spacing:-.065em;
+  line-height:1;
+  letter-spacing:-.05em;
   font-weight:700;
 }
 
